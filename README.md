@@ -9,7 +9,7 @@ Let’s work together and make something special happen!
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning Mongoose & TypeScript
-- 
+  
 Skills: React JS / JavaScript / HTML / CSS / Redux / Tailwind CSS / Bootstrap / Material UI / MongoDB / Node JS / Expres JS / Firebase, etc.
 
 <h3 align="left">Languages and Tools:</h3>
